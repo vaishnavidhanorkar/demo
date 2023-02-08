@@ -1,4 +1,3 @@
 # demo
 first repository
-welcome here
-pull 
+git hub project
